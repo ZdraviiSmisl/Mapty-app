@@ -1,4 +1,3 @@
-#Ma
-#Mapty app
+# Mapty app
 
-Choosing your aktivities this day and let's go
+Click on the map and choose your aktivities this day and let's go
